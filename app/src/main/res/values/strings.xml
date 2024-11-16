@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">currency_converter</string>
+    <string name="dinar_euro"><![CDATA[Dinar - > Euro]]></string>
+    <string name="euro_dinar"><![CDATA[Euro -> Dinar]]></string>
+</resources>
